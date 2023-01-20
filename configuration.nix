@@ -76,6 +76,7 @@
 # Allow unsecure packages
   nixpkgs.config.permittedInsecurePackages = [
     "electron-12.2.3"
+    "adobe-reader"
   ];
 
 
