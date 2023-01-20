@@ -127,6 +127,11 @@
     prusa-slicer
     cura
     bitwarden
+    adobe-reader
+    obs-studio
+    freefilesync
+    thunderbird
+    hugo
     # gnome stuff
     pkgs.gnome3.gnome-tweaks
     gnomecast
