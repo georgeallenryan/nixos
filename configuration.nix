@@ -132,7 +132,7 @@
     obs-studio
     freefilesync
     thunderbird
-    jekyll
+    hugo
     # gnome stuff
     pkgs.gnome3.gnome-tweaks
     gnomecast
