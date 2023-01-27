@@ -110,7 +110,7 @@
     teams
     drive
     qbittorrent
-    notepadqq
+    atom
     virtualbox
     minecraft
     netflix
