@@ -10,6 +10,11 @@
       ./hardware-configuration.nix
     ];
 
+  # Colmena
+  deployment.targetHost = "10.0.2.8"
+  deployment.tags = [ "infra" "infrastructure" ];
+
+
   # Use the GRUB 2 boot loader.
   boot.loader.grub.enable = true;
   # boot.loader.grub.efiSupport = true;
